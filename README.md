@@ -9,5 +9,5 @@ Each file is a jupyter notebook tutorial for statistical data analysis.
 4. [Hypothesis Testing](https://github.com/Joshua-Robison/StatisticalAnalysis/blob/main/notebooks/hypothesis_testing.ipynb)
 5. [Inversion Sampling](https://github.com/Joshua-Robison/StatisticalAnalysis/blob/main/notebooks/inversion_sampling.ipynb)
 6. [Probability Distributions](https://github.com/Joshua-Robison/StatisticalAnalysis/blob/main/notebooks/probability_distributions.ipynb)
-7. [Rejecting Sampling](https://github.com/Joshua-Robison/StatisticalAnalysis/blob/main/notebooks/rejection_sampling.ipynb)
+7. [Rejection Sampling](https://github.com/Joshua-Robison/StatisticalAnalysis/blob/main/notebooks/rejection_sampling.ipynb)
 8. [More Practice](https://github.com/Joshua-Robison/StatisticalAnalysis/blob/main/notebooks/practice.ipynb)
